@@ -1,0 +1,7 @@
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 2\C# code (main simulation)\IsingModel\bin\Debug\IsingModel.exe.config
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 2\C# code (main simulation)\IsingModel\bin\Debug\IsingModel.exe
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 2\C# code (main simulation)\IsingModel\bin\Debug\IsingModel.pdb
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 2\C# code (main simulation)\IsingModel\obj\Debug\IsingSimulation.csprojAssemblyReference.cache
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 2\C# code (main simulation)\IsingModel\obj\Debug\IsingSimulation.csproj.CoreCompileInputs.cache
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 2\C# code (main simulation)\IsingModel\obj\Debug\IsingModel.exe
+C:\Users\tkore\OneDrive\Studie\MSc\Leiden\Vakken\Computational Physics\Project 2\C# code (main simulation)\IsingModel\obj\Debug\IsingModel.pdb

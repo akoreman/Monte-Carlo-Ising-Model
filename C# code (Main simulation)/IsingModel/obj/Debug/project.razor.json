@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Tim\\OneDrive\\Studie\\MSc\\Leiden\\Vakken\\Computational Physics\\Project 2\\Ising\\IsingModel\\IsingModel\\IsingModel.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
